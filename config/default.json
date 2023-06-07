@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb://swade-db:d5c2WLiKguYerhVEC9nzCoKl3Wtg4CaCwPon9Ktpl93Bytx9Csu8uwtSbzjaUSwW1a93yfK84yeFACDbqyrynA==@swade-db.mongo.cosmos.azure.com:10255/rippers?ssl=true&retrywrites=false&maxIdleTimeMS=120000&appName=@swade-db@"
+}
